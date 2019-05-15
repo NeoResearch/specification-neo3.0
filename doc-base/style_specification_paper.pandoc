@@ -1,8 +1,8 @@
 \usepackage{pagecolor,lipsum}% http://ctan.org/pkg/{pagecolor,lipsum}
 \usepackage{tcolorbox}
 \definecolor{lightgoldenrodyellow}{rgb}{0.98, 0.98, 0.82}
-%\pagecolor{yellow!30}
-\pagecolor{lightgoldenrodyellow}
+\pagecolor{green!20}
+%\pagecolor{lightgoldenrodyellow}
 \usepackage[a4paper, margin=1in]{geometry}
 \usepackage[nameinlink]{cleveref} % nameInLink used on pandoc-crossref too (see cref option too)
 
