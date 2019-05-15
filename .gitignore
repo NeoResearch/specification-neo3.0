@@ -1,0 +1,10 @@
+yellow_paper.md
+chapter.md
+*.tar.gz
+*.deb
+*.deb.*
+*.o
+*~
+/images/
+/graphviz-images/
+*.pdf
